@@ -5,6 +5,8 @@
     "Module_World_Color.GetRGBValue|block": "颜色传感器|返回 %value",
     "Module_World_Color.enGetRGB.GetValueR|block": "R值",
     "Module_World_Color.enGetRGB.GetValueG|block": "G值",
-    "Module_World_Color.enGetRGB.GetValueB|block": "B值"
+    "Module_World_Color.enGetRGB.GetValueB|block": "B值",
+
+	"Module_World_Color.Rocker|block": "遥杆|引脚 %value_ANum|返回 %value"
 
 }
